@@ -1,6 +1,7 @@
 # Demo
 Demo repo to test out every new functionalities, such as
 * Process integration
+* VS Code integration (e.g. extensions like GitLens)
 * Project-specific snippets
 * Git flows like gitflow
 * Static Analyzer (e.g. SonarCube)
